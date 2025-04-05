@@ -54,49 +54,6 @@ Un site web vitrine professionnel pour une quincaillerie basée au Sénégal, pr
 - 📦 Font Awesome 6.0.0
 - 🗺️ Google Maps Embed API
 
-## 📁 Structure du projet
-Projet/ 
-├── css/ 
-│ └── style.css # Styles principaux 
-│ ├── img/ 
-│ ├── backgrounds/ # Images d'arrière-plan 
-│ │ ├── hero-bg.jpg # Arrière-plan page d'accueil 
-│ │ ├── team-bg.jpg # Arrière-plan page équipe 
-│ │ ├── contact-bg.jpg # Arrière-plan page contact 
-│ │ └── products-bg.jpg # Arrière-plan page produits │ │ 
-│ ├── products/ # Images des produits 
-│ │ ├── perceuse-pro1.jpg 
-│ │ ├── perceuse-pro2.jpg 
-│ │ ├── perceuse-pro3.jpg 
-│ │ ├── robinet1.jpg 
-│ │ ├── robinet2.jpg 
-│ │ ├── robinet3.jpg 
-│ │ ├── cable1.jpg 
-│ │ ├── cable2.jpg 
-│ │ ├── cable3.jpg 
-│ │ ├── peinture1.jpg 
-│ │ ├── peinture2.jpg 
-│ │ └── peinture3.jpg 
-│ ├── team/ # Photos de l'équipe 
-│ │ ├── gerant.jpg # Photo de la gérante 
-│ │ ├── conseiller1.jpg 
-│ │ ├── conseiller2.jpg 
-│ │ └── livreur.jpg 
-│ │ # Images vitrine page d'accueil
-│ ├── perceuse.jpg  
-│ ├── visseuse.jpg 
-│ ├── toolbox.jpg 
-│ ├── marteau.jpg 
-│ │ # Images des témoignages 
-│ ├── client1.jpg 
-│ ├── client2.jpg 
-│ └── client3.jpg 
-│ ├── index.html # Page d'accueil 
-├── equipe.html # Page équipe 
-├── produits.html # Page produits 
-├── contact.html # Page contact 
-└── README.md # Documentation du projet
-
 ## 📸 Captures d'écran
 
 ### Page d'accueil
@@ -118,31 +75,6 @@ Projet/
 <img  src="Captures/Capture14.png"/>
 <img  src="Captures/Capture15.png"/>
 <img  src="Captures/Capture16.png"/>
-
-## 🚀 Déploiement sur GitHub
-
-Voici les commandes pour déployer le projet sur GitHub:
-
-```bash
-# Initialiser un dépôt Git dans le dossier du projet
-cd c:\Users\thier\Desktop\Projet
-git init
-
-# Ajouter tous les fichiers au suivi Git
-git add .
-
-# Créer le premier commit
-git commit -m "Premier commit: Site Quincaillerie Pro"
-
-# Créer un nouveau dépôt sur GitHub.com (sans initialiser avec README)
-# Puis lier votre dépôt local au dépôt distant
-git remote add origin https://github.com/ThiernoMaadjou/quincaillerie-pro.git
-
-# Pousser le code vers GitHub
-git push -u origin main
-```
-
-Ces commandes peuvent être exécutées dans Git Bash, PowerShell ou CMD.
 
 ## 👨‍💻 Auteur
 
