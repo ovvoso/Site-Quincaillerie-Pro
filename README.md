@@ -1,6 +1,6 @@
 # 🔨 Quincaillerie Pro - Site Web
 
-Un site web vitrine professionnel pour une quincaillerie basée au Sénégal, présentant les produits, l'équipe et les services proposés.
+Un site web vitrine professionnel pour une quincaillerie, présentant les produits, l'équipe et les services proposés.
 
 ## 📋 Pages du site
 
