@@ -1,0 +1,43 @@
+Les images mentionnées dans le HTML et CSS devront être placées dans un dossier img/ à la racine du projet. Vous devrez ajouter :
+
+hero-bg.jpg
+perceuse.jpg
+visseuse.jpg
+toolbox.jpg
+marteau.jpg
+client1.jpg
+client2.jpg
+client3.jpg
+
+
+Je vais créer un dossier img avec les images nécessaires. Voici les étapes :
+
+Créer un dossier img dans le projet
+Ajouter les images nécessaires
+Optimiser pour le web
+Structure des images à ajouter :
+Créez le dossier : c:\Users\thier\Desktop\Projet\img\ et ajoutez-y les images suivantes :
+
+hero-bg.jpg - Image de fond pour le hero (1920x1080px)
+perceuse.jpg - Image produit (500x500px)
+visseuse.jpg - Image produit (500x500px)
+toolbox.jpg - Image produit (500x500px)
+marteau.jpg - Image produit (500x500px)
+client1.jpg - Photo testimonial (200x200px)
+client2.jpg - Photo testimonial (200x200px)
+client3.jpg - Photo testimonial (200x200px)
+
+Note : Pour obtenir ces images, vous pouvez :
+
+Les télécharger depuis Unsplash ou une autre banque d'images libres de droits
+Les redimensionner aux dimensions recommandées
+Les optimiser pour le web
+Les placer dans le dossier img du projet
+
+N'oubliez pas d'ajouter les images suivantes dans le dossier img/ :
+
+team-bg.jpg (arrière-plan de l'en-tête)
+gerant.jpg
+conseiller1.jpg
+conseiller2.jpg
+livreur.jpg

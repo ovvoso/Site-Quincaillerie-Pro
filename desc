@@ -1,0 +1,145 @@
+# Quincaillerie Pro - Site Web
+
+Site web vitrine pour une quincaillerie professionnelle, présentant les produits, l'équipe et les services.
+
+## Structure du Projet
+
+```
+Projet/
+│
+├── css/
+│   └── style.css          # Styles principaux
+│
+├── img/
+│   ├── hero-bg.jpg        # Image d'arrière-plan héro
+│   ├── team-bg.jpg        # Image d'arrière-plan équipe
+│   ├── contact-bg.jpg     # Image d'arrière-plan contact
+│   ├── products/          # Images des produits
+│   └── team/             # Photos de l'équipe
+│
+├── index.html            # Page d'accueil
+├── equipe.html          # Page équipe
+├── produits.html        # Page produits
+└── contact.html         # Page contact
+```
+
+## Pages du Site
+
+1. **Accueil (index.html)**
+   - Hero section avec présentation
+   - Services proposés
+   - Produits phares
+   - Témoignages clients
+
+2. **Équipe (equipe.html)**
+   - Présentation de l'équipe
+   - Mot du gérant
+   - Expertise et compétences
+   - Valeurs de l'entreprise
+
+3. **Produits (produits.html)**
+   - Catégories de produits
+   - Navigation par sections
+   - Fiches produits détaillées
+   - Outillage, plomberie, électricité, peinture
+
+4. **Contact (contact.html)**
+   - Formulaire de contact
+   - Informations de contact
+   - Plan d'accès Google Maps
+   - Liens réseaux sociaux
+
+## Technologies Utilisées
+
+- HTML5
+- CSS3 (Flexbox & Grid)
+- Google Fonts (Poppins)
+- Font Awesome 6.0.0
+- Google Maps Embed API
+
+## Fonctionnalités
+
+- Design responsive
+- Navigation fluide
+- Sections interactives
+- Formulaires de contact
+- Intégration de carte
+- Animations CSS
+
+## Installation
+
+1. Clonez le repository
+2. Assurez-vous d'avoir les images nécessaires dans le dossier `img/`
+3. Ouvrez `index.html` dans votre navigateur
+
+## Personnalisation
+
+- Couleurs modifiables dans `css/style.css` (variables CSS)
+- Images remplaçables dans le dossier `img/`
+- Textes modifiables dans les fichiers HTML
+
+## Optimisation
+
+- Images compressées
+- CSS minifié
+- Chargement différé des images
+- Performances optimisées
+
+## Spécifications des Images
+
+### Images d'arrière-plan
+- `hero-bg.jpg` (1920x1080px) - Image d'accueil avec atelier ou outils
+- `team-bg.jpg` (1920x600px) - Image d'équipe au travail
+- `contact-bg.jpg` (1920x400px) - Façade ou intérieur du magasin
+- `products-bg.jpg` (1920x600px) - Vue d'ensemble des produits en magasin
+
+### Images de l'équipe
+- `gerant.jpg` (600x600px) - Photo du gérant
+- `conseiller1.jpg` (600x800px) - Photo conseillère technique
+- `conseiller2.jpg` (600x800px) - Photo conseiller technique
+- `livreur.jpg` (600x800px) - Photo responsable logistique
+
+### Images des produits
+Dossier: `img/products/`
+Toutes les images de produits : 800x800px
+
+- `perceuse-pro.jpg` - Perceuse professionnelle
+- `visseuse.jpg` - Visseuse sans fil
+- `toolbox.jpg` - Boîte à outils complète
+- `marteau.jpg` - Marteau professionnel
+- `robinet.jpg` - Mitigeur Premium
+- `cable.jpg` - Câble électrique
+- `peinture.jpg` - Pot de peinture
+
+### Images des clients
+Dossier: `img/testimonials/`
+   Format carré : 200x200px
+
+   - `client1.jpg` - Photo Jean Dupont
+   - `client2.jpg` - Photo Marie Martin
+   - `client3.jpg` - Photo Pierre Durant
+
+### Format et optimisation
+- Format : JPG pour les photos, PNG pour les logos
+- Compression : Optimisée pour le web
+- Résolution : 72 DPI
+- Poids maximum : 300Ko par image
+- Mode colorimétrique : RVB
+
+## Compatibilité
+
+- Chrome (dernière version)
+- Firefox (dernière version)
+- Safari (dernière version)
+- Edge (dernière version)
+- Responsive sur mobile et tablette
+
+## Auteur
+
+- Nom : [Votre nom]
+- Contact : [Votre email]
+- Portfolio : [Votre site web]
+
+## Licence
+
+© 2024 Quincaillerie Pro - Tous droits réservés
